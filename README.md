@@ -7,12 +7,15 @@ For this project, we build a HTML page with filtering function that pulls up inf
 
 ## Results:
 Once the `index.html` is opened on a web browser, the webpage will look like as below:
+
 ![Page Top]()
 
 In order to filter the data, we can input specific date, City name, State, Country, and Shape of UFO in the available search bars
+
 ![Search]()
 
 Then, the data with matching information will be shown on the webpage.
+
 ![result]()
 
 ## Summary:
